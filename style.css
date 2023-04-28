@@ -1,0 +1,21 @@
+@media screen and (max-width:576px) {
+    #invisible{
+        display: none;
+    }
+}
+
+.img-nav{
+    width: 60px;
+}
+
+.container-nav {
+    height: 60px;
+}
+
+.card-img-top{
+    width: 200px;
+}
+
+.off-giorno{
+    width: 400px;
+}
