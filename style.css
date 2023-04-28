@@ -1,21 +1,23 @@
 @media screen and (max-width:576px) {
-    #invisible{
+    #invisible {
         display: none;
     }
 }
 
-.img-nav{
+.container {
+    width: 80%;
+}
+
+.img-nav {
     width: 60px;
 }
 
-.container-nav {
-    height: 60px;
-}
-
-.card-img-top{
+.card-img-top {
     width: 200px;
 }
 
-.off-giorno{
-    width: 400px;
+.img-off {
+    width: 800px;
+    height: 200px;
+    object-fit: cover;
 }
